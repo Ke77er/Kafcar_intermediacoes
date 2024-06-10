@@ -1989,7 +1989,6 @@ button.mfp-close:before {
 .kf-started-item {
     position: relative;
     width: 100%;
-    height: calc(100vh - 140px);
     min-height: 780px
 }
 

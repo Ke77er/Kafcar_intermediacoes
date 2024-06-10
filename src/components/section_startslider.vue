@@ -52,4 +52,5 @@ export default {
 .js-parallax{
 	width: 100%;
 }
+
 </style>

@@ -55,4 +55,9 @@ export default {
 </script>
 
 <style scoped>
+
+
+.kf-about-image {
+    text-align: center;
+}
 </style>
